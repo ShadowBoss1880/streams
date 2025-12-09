@@ -1,56 +1,66 @@
 p
 {
-
-    color:rgb(165, 3, 205)
+    color: rgb(252, 113, 113)
 }
+
 h2
 {
- color:rgb(253, 165, 1)
+ color :rgb(0, 0, 0)
 }
+
 h1
 {
-    color:rgb(253, 165, 1)
+    color:rgb(0, 0, 0)
 }
+
 h4
 {
-    color:rgb(253, 165, 1)
+    color:rgb(0, 0, 0)
 }
 
 .collororange
 {
-    color:rgb(253, 165, 1)
+    color: rgb(0, 0, 0)
 }
+
 .collorpurple
 {
-    color:rgb(165, 3, 205)
+    color :rgb(252, 113, 113)
 }
+
 .dropdown-item
 {
-    color:rgb(165, 3, 205)
+    color: rgb(252, 113, 113)
 }
+
 .menukleur
 {
-    color:rgb(165, 3, 205)
+    color: rgb(252, 113, 113)
 }
+
 footer 
 {
-    background-color: rgb(202, 235, 246)
+    background-color: :rgb(252, 113, 113)
 }
+
 .navbar
 {
-    background-color: rgb(202, 235, 246)
-}
+    background-color: :rgb(252, 113, 113)
 body
-{ 
-    background-color:   rgb(228, 241, 245);
 }
+
+ {
+    background-color:   rgb(252, 113, 113)
 .bg-navbar
-{
-    background-color: rgb(202, 235, 246);
 }
+
+{
+    background-color:  rgb(252, 113, 113)
+    }
+
 span
 {
-    color:red
+    color:rgb(0, 0, 0)
 }
 
 tekst1
